@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dont-use-camel-case-with-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dont-use-camel-case-with-react/static/js/main.9c2ca9f7.chunk.js",
+    "main.js.map": "/dont-use-camel-case-with-react/static/js/main.9c2ca9f7.chunk.js.map",
+    "runtime-main.js": "/dont-use-camel-case-with-react/static/js/runtime-main.8bcce6f9.js",
+    "runtime-main.js.map": "/dont-use-camel-case-with-react/static/js/runtime-main.8bcce6f9.js.map",
+    "static/js/2.c722c405.chunk.js": "/dont-use-camel-case-with-react/static/js/2.c722c405.chunk.js",
+    "static/js/2.c722c405.chunk.js.map": "/dont-use-camel-case-with-react/static/js/2.c722c405.chunk.js.map",
+    "static/js/3.425f41f6.chunk.js": "/dont-use-camel-case-with-react/static/js/3.425f41f6.chunk.js",
+    "static/js/3.425f41f6.chunk.js.map": "/dont-use-camel-case-with-react/static/js/3.425f41f6.chunk.js.map",
+    "index.html": "/dont-use-camel-case-with-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dont-use-camel-case-with-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c722c405.chunk.js.LICENSE.txt": "/dont-use-camel-case-with-react/static/js/2.c722c405.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dont-use-camel-case-with-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bcce6f9.js",
+    "static/js/2.c722c405.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9c2ca9f7.chunk.js"
+  ]
+}
